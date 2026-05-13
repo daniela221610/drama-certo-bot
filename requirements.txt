@@ -1,0 +1,2 @@
+python-telegram-bot==20.7
+mercadopago==2.2.2
